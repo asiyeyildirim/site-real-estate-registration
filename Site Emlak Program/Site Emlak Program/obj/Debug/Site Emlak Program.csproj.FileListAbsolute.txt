@@ -1,0 +1,22 @@
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.csprojAssemblyReference.cache
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\obj\Debug\Site_Emlak_Program.Form1.resources
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\obj\Debug\Site_Emlak_Program.Properties.Resources.resources
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.csproj.GenerateResource.cache
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.csproj.CoreCompileInputs.cache
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\bin\Debug\Site Emlak Program.exe.config
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\bin\Debug\Site Emlak Program.exe
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\bin\Debug\Site Emlak Program.pdb
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.exe
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.pdb
+C:\Users\asiye\source\repos\Site Emlak Program\Site Emlak Program\obj\Debug\Site_Emlak_Program.Form2.resources
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\bin\Debug\Site Emlak Program.exe.config
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\bin\Debug\Site Emlak Program.exe
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\bin\Debug\Site Emlak Program.pdb
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.csprojAssemblyReference.cache
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\obj\Debug\Site_Emlak_Program.Form1.resources
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\obj\Debug\Site_Emlak_Program.Form2.resources
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\obj\Debug\Site_Emlak_Program.Properties.Resources.resources
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.csproj.GenerateResource.cache
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.csproj.CoreCompileInputs.cache
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.exe
+C:\Users\asiye\Desktop\projeler\Site Emlak Program\Site Emlak Program\obj\Debug\Site Emlak Program.pdb
